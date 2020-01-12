@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc23f4b1-9cb6-4f06-8208-b89ea2dd44df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fruit_identification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fruit_identification.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fruit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/retrain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/check.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +270,7 @@
       <workItem from="1578767420727" duration="178000" />
       <workItem from="1578767613015" duration="3181000" />
       <workItem from="1578803114612" duration="2296000" />
-      <workItem from="1578806530117" duration="4514000" />
+      <workItem from="1578806530117" duration="5385000" />
     </task>
     <servers />
   </component>
@@ -306,6 +301,10 @@
     </state>
     <state x="355" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577614533244" />
     <state x="355" y="274" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578770844743" />
+    <state x="808" y="435" key="Github.ShareDialog" timestamp="1578811223458">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="808" y="435" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578811223458" />
     <state width="1877" height="460" key="GridCell.Tab.0.bottom" timestamp="1578811069772">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

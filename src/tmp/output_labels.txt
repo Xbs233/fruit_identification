@@ -1,0 +1,10 @@
+apple
+banana
+coconut
+durian
+kiwifruit
+orange
+papaya
+peach
+pineapple
+watermelon

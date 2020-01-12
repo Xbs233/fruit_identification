@@ -5,16 +5,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newTest/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newTest/retrain2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneck/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sneck/name.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fruit2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/fruit_identification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fruit_identification.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fruit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/retrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/retrain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/retrain.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +275,7 @@
       <workItem from="1578767420727" duration="178000" />
       <workItem from="1578767613015" duration="3181000" />
       <workItem from="1578803114612" duration="2296000" />
-      <workItem from="1578806530117" duration="4216000" />
+      <workItem from="1578806530117" duration="4514000" />
     </task>
     <servers />
   </component>
@@ -311,26 +306,26 @@
     </state>
     <state x="355" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577614533244" />
     <state x="355" y="274" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578770844743" />
-    <state width="1877" height="222" key="GridCell.Tab.0.bottom" timestamp="1578808119564">
+    <state width="1877" height="460" key="GridCell.Tab.0.bottom" timestamp="1578811069772">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577898503519" />
-    <state width="1877" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578808119564" />
-    <state width="1877" height="222" key="GridCell.Tab.0.center" timestamp="1578808119564">
+    <state width="1877" height="460" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578811069772" />
+    <state width="1877" height="460" key="GridCell.Tab.0.center" timestamp="1578811069772">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577898503519" />
-    <state width="1877" height="222" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578808119564" />
-    <state width="1877" height="222" key="GridCell.Tab.0.left" timestamp="1578808119564">
+    <state width="1877" height="460" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578811069772" />
+    <state width="1877" height="460" key="GridCell.Tab.0.left" timestamp="1578811069772">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577898503519" />
-    <state width="1877" height="222" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578808119564" />
-    <state width="1877" height="222" key="GridCell.Tab.0.right" timestamp="1578808119564">
+    <state width="1877" height="460" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578811069772" />
+    <state width="1877" height="460" key="GridCell.Tab.0.right" timestamp="1578811069772">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577898503519" />
-    <state width="1877" height="222" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578808119564" />
+    <state width="1877" height="460" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578811069772" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1577893352608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

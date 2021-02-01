@@ -21,7 +21,7 @@ jobs:
                 python-version: 3.8
 
             - name: "安装依赖包"
-              run: pip install  requests
+              run: pip install  requests,hyper
 
             - name: "运行 自动重邮打卡"
               run: python report.py

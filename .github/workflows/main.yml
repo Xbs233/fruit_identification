@@ -19,10 +19,12 @@ jobs:
               uses: actions/setup-python@v1
               with:
                 python-version: 3.8
+            - name: "升级pip"
+              run: python -m pip install --upgrade pip
 
             - name: "安装依赖包"
               run: pip install -r requests
 
             - name: "运行 哔咔漫画自动打哔咔"
-              run: python3 report.py
+              run: python report.py
              

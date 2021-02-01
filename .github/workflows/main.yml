@@ -23,7 +23,7 @@ jobs:
               run: python -m pip install --upgrade pip
 
             - name: "安装依赖包"
-              run: pip install -r requests
+              run: pip install  requests
 
             - name: "运行 哔咔漫画自动打哔咔"
               run: python report.py

@@ -15,5 +15,5 @@ url = "https://we.cqu.pt/api/mrdk/post_mrdk_info.php"
 
 response = requests.post(url = url,json=json,headers = static_headers,verify=False)
 
-print(response.raw)
+print(response.text)
 
